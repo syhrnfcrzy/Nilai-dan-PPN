@@ -1,0 +1,4 @@
+buatlah algoritma dengan flowchart dan pseudocode, kemudian
+translasikan menggunakan bahasa C++, yang menghitung pajak
+pertambahan nilai (ppn) 12.50% dengan meminta harga barang 
+yang dibeli dari pengguna program
