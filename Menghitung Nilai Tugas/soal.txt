@@ -1,0 +1,5 @@
+Buatlah Algoritma dengan flowchart dan pseudocode kemudian translasikan
+dengan menggunakan bahasa c++, yang membaca 3 buah data, yaitu nilai tugas 
+nilai mid dan nilai final kemudian hitung nilai akhir dengan rumus :
+nilai akhir = 20%, nilai tugas = 30%, nilai final = 50%
+tampilkan nilai akhir jika, nilai akhir diatas 55 maka lulus, jika tidak maka tidak lulus.
